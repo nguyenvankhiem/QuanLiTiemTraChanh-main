@@ -1,0 +1,4 @@
+123#Trà chanh#10000#1#2
+100001#tra chanh#15000#2#2
+100001#tra chanh truyen thong#15000#2#2
+100001#tra chanh truyen thong#15000#2#2
